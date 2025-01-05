@@ -7,6 +7,7 @@ Prerequisites
 3. Windows
 
 # 간단한 설명
+0. 프로그램 저장 위치(default): C:\Applications\NewSongMacro1
 1. 실행파일: new_song_macro1.exe
 2. Text 편집: ./input/Subtitle_Template.txt
 3. PPT template: ./input/Subtitle_Template.pptx
