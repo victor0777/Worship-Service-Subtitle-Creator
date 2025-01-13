@@ -1,7 +1,11 @@
 # Worship-Service-Subtitle-Creator
 
 교회 자막 생성 프로그램
-Prerequisites
+# log info
+20250113 release 0.2
+1. RPC error fix (rpc call이 너무 빠르게, 너무 자주 발생해서 delay 추가)
+
+# Prerequisites
 1. .NET framework 4.8(ndp48-web.exe)
 2. Microsoft PowerPoint 2013 이상
 3. Windows
